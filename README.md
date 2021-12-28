@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Birdiej
 - 👀 I’m interested in loads of things
-- 🌱 I’m currently learning Python
 <!--- - 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
